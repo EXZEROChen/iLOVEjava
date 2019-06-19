@@ -1,3 +1,5 @@
+//hangbanguanlichengke.
+
 package com.example.lib.JavaHomework.Passenger;
 
 public class Passenger implements PassengerInterface {
